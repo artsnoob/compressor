@@ -1,2 +1,2 @@
 # compressor
-Compress .mov file.
+Compress .mov files using compressor / moviepy.
